@@ -1,0 +1,16 @@
+const one = new Audio();
+one.src = 'sound/clothes/1.mp3';
+const two = new Audio();
+two.src = 'sound/clothes/2.mp3';
+const three = new Audio();
+three.src = 'sound/clothes/3.mp3';
+const four = new Audio();
+four.src = 'sound/clothes/4.mp3';
+const five = new Audio();
+five.src = 'sound/clothes/5.mp3';
+const six = new Audio();
+six.src = 'sound/clothes/6.mp3';
+const seven = new Audio();
+seven.src = 'sound/clothes/7.mp3';
+const eight = new Audio();
+eight.src = 'sound/clothes/8.mp3';
