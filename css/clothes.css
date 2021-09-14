@@ -1,0 +1,39 @@
+.one {
+    background: url('../img/clothes/one.jpg') 30%;
+    background-size: cover;
+}
+
+.two {
+    background: url('../img/clothes/two.jpg') 30%;
+    background-size: cover;
+}
+
+.three {
+    background: url('../img/clothes/three.jpg') 30%;
+    background-size: cover;
+}
+
+.four {
+    background: url('../img/clothes/four.jpg') 30%;
+    background-size: cover;
+}
+
+.five {
+    background: url('../img/clothes/five.jpg') 30%;
+    background-size: cover;
+}
+
+.six {
+    background: url('../img/clothes/six.jpg') 30%;
+    background-size: cover;
+}
+
+.seven {
+    background: url('../img/clothes/seven.jpg') 30%;
+    background-size: cover;
+}
+
+.eight {
+    background: url('../img/clothes/eight.jpg') 30%;
+    background-size: cover;
+}

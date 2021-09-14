@@ -1,0 +1,39 @@
+.one {
+    background: url('../img/fruits/one.jpg') 30%;
+    background-size: cover;
+}
+
+.two {
+    background: url('../img/fruits/two.jpg') 30%;
+    background-size: cover;
+}
+
+.three {
+    background: url('../img/fruits/three.jpg') 30%;
+    background-size: cover;
+}
+
+.four {
+    background: url('../img/fruits/four.jpg') 30%;
+    background-size: cover;
+}
+
+.five {
+    background: url('../img/fruits/five.jpg') 30%;
+    background-size: cover;
+}
+
+.six {
+    background: url('../img/fruits/six.jpg') 30%;
+    background-size: cover;
+}
+
+.seven {
+    background: url('../img/fruits/seven.jpg') 30%;
+    background-size: cover;
+}
+
+.eight {
+    background: url('../img/fruits/eight.jpg') 30%;
+    background-size: cover;
+}

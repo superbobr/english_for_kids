@@ -1,0 +1,39 @@
+.one {
+    background: url('../img/animals/one.jpg') 30%;
+    background-size: cover;
+}
+
+.two {
+    background: url('../img/animals/two.jpg') 30%;
+    background-size: cover;
+}
+
+.three {
+    background: url('../img/animals/three.jpg') 30%;
+    background-size: cover;
+}
+
+.four {
+    background: url('../img/animals/four.jpg') 30%;
+    background-size: cover;
+}
+
+.five {
+    background: url('../img/animals/five.jpg') 30%;
+    background-size: cover;
+}
+
+.six {
+    background: url('../img/animals/six.jpg') 30%;
+    background-size: cover;
+}
+
+.seven {
+    background: url('../img/animals/seven.jpg') 30%;
+    background-size: cover;
+}
+
+.eight {
+    background: url('../img/animals/eight.jpg') 30%;
+    background-size: cover;
+}
